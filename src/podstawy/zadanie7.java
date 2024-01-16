@@ -1,8 +1,6 @@
-package podstawy;
-
 import java.util.Scanner;
 
-public class zad7 {
+class zadq7 {
     public static void main(String[] args) {
         Scanner produkt = new Scanner(System.in);
 
@@ -56,8 +54,3 @@ public class zad7 {
 
 
 }
-
-
-
-
-
